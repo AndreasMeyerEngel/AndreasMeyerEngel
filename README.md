@@ -3,9 +3,8 @@
 
 
 - 🔭 Atualmente trabalho como Testador de Software ...
-- 🌱 Atualmente estou estudando Javascript e automação de testes com Ruby ...
+- 🌱 Atualmente estou estudando automação de testes com Ruby ...
 - 📘 Estou trabalhando em melhorar o meu Inglês ...
-- 🔔 Pretendo migrar para área de desenvolvimento Mobile ...
 
   ##
 
@@ -16,8 +15,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Andreas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andreas-Flutter" height="30" width="40" src="https://img.icons8.com/color/48/000000/flutter.png">
   <img align="center" alt="Andreas-Ruby" height="30" width="40" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png">
   <img align="center" alt="Andreas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andreas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
