@@ -3,8 +3,8 @@
 
 
 - 🔭 Atualmente trabalho como Testador de Software ...
-- 🌱 Atualmente estou estudando HTML, CSS, JavaScript, Cypress, Ruby ...
-- 📘 Estou estudando para melhorar o meu Inglês...
+- 🌱 Estou estudando HTML, CSS, JavaScript, Cypress...
+- 📘 Melhorando meu Inglês com a Fluency Academy...
 
   ##
 
@@ -15,7 +15,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Andreas-Cypress" height="30" width="40" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png">
+  <img align="center" alt="Andreas-Cypress" height="30" width="40" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
   <img align="center" alt="Andreas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andreas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andreas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
