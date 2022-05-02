@@ -15,7 +15,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Andreas-Cypress" height="30" width="40" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
+  <img align="center" alt="Andreas-Cypress" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png">
   <img align="center" alt="Andreas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andreas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andreas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
